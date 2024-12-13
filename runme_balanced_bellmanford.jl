@@ -15,5 +15,3 @@ f = flow(balanced_graphmodel, d, p);
 
 # visualize the flow -
 include("visualize.jl");
-
-include("change")
